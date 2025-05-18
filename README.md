@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BrightSide: AI-Powered Learning Platform
 
 BrightSide is a modern, interactive learning platform that combines advanced AI capabilities with educational tools to enhance student learning and engagement. The platform features specialized AI bots for debate practice and emotional intelligence development.
@@ -301,3 +302,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Made with ❤️ by Samvit Gersappa
+=======
+# Ctrl-Alt-Hack_EduAIthon
+>>>>>>> 0c1a16cb4c2b6965ea245db8e917ff5c60d15426
