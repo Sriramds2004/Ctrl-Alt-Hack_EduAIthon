@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # BrightSide: AI-Powered Learning Platform
 
 BrightSide is a modern, interactive learning platform that combines advanced AI capabilities with educational tools to enhance student learning and engagement. The platform features specialized AI bots for debate practice and emotional intelligence development.
@@ -274,34 +274,10 @@ The application includes a complete authentication system with:
 ## 🎨 UI/UX Features
 
 - Modern, responsive design
-- Dark/light mode support
-- Interactive chat interfaces
+- Dark/light mode support- Interactive chat interfaces
 - Real-time voice input
 - Dynamic data visualization
 - Loading states and error handling
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Acknowledgments
-
-- OpenAI for their powerful language models
-- Groq for their AI capabilities
-- HuggingFace for their machine learning models
-- The React community for excellent tools and libraries
-
----
-
-Made with ❤️ by Samvit Gersappa
-=======
 # Ctrl-Alt-Hack_EduAIthon
->>>>>>> 0c1a16cb4c2b6965ea245db8e917ff5c60d15426
+
